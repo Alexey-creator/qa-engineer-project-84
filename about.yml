@@ -1,0 +1,21 @@
+---
+name: Alexey Gvozd
+job: QA Engineer
+level: junior
+email: nival2008@mail.ru
+description: |
+  Привет! Меня зовут Алексей, и я начинающий QA-специалист, который страстно увлечен обеспечением качества и совершенствованием процедур тестирования. 
+  В свободное время люблю заниматься саморазвитием, освоением новых технологий и созданием удобных процессов для командного взаимодействия.
+
+  Hello! My name is Alex and I am an aspiring QA specialist who is passionate about quality assurance and improving testing procedures.
+  In my free time, I like to engage in self-development, mastering new technologies and creating convenient processes for team interaction.
+
+skills:
+  - Функциональное тестирование
+  - Написание багрепортов
+  - Linux
+  - Слепая печать
+  - Работа с инструментами: Postman
+  - Основы автоматизированного тестирования
+  - Создание тест-кейсов
+  - Навыки анализа требований и документации
