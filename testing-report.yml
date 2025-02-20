@@ -36,10 +36,6 @@
   status: pass
 
 - summary: |
-    Фильтрация товаров по цене
-  status: pass
-
-- summary: |
     Отсутствие товаров при некорректном диапазоне цен
   status: pass
 
